@@ -8,7 +8,8 @@ AUTOCLICKER_TEXT = """
 ╚═════╝░╚══════╝░╚═════╝░╚═╝░░░░░╚═╝  ╚═╝░░╚═╝░╚═════╝░░░░╚═╝░░░░╚════╝░
 """
 
-CREDITS = "\033[34mOriginal: https://devbutlazy/Blum-AutoClicker\033[0m"
-DONATE_TEXT = "\033[1;33;48mDonate here (ERC-20):\033[1;37;0m 0x5F06C1c23aF7Cc644B8cBaF0e2b294CbA15CC745" \
-              "\n\033[1;33;48mDonate here (TON):\033[1;37;0m UQBTHDZJnuDr4-v6oc_cDRXYdqggIoQA_tLGv5z2li4DC7GI\n"
-WINDOW_NOT_FOUND = "Blum window not found! Please open it, and restart the program."
+
+DONATE_TEXT = "\033[1;33;48mDona >:V (TRC-20):\033[1;37;0m TFKMEDMAio1sCc7JcKwH6oMbFLtxRHiv93" \
+              "\n\033[1;33;48mDona >:V (TON):\033[1;37;0m UQCIrXuGF3NR60hQBF_7w0HWmM31Jr_77xp6Q2Q98tiVwCAg\n" \
+              "\033[1;33;48mDona >:V (BEP-20):\033[1;37;0m 0x1f03bbEaBA31Db2E9604f39fF5a5e83caF0E947A\n"
+WINDOW_NOT_FOUND = "EL BOT NO CORRE DIRECTAMENTE EN WINDOWS >:V HAS COMO DIGO."

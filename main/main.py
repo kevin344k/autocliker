@@ -2,14 +2,13 @@ import os
 import asyncio
 
 from core.clicker.blum import BlumClicker
-from main.static import CREDITS, AUTOCLICKER_TEXT, DONATE_TEXT
+from main.static import AUTOCLICKER_TEXT, DONATE_TEXT
 
-
+#python -m main.main
 async def main() -> None:
     os.system("cls")
 
     print(AUTOCLICKER_TEXT)
-    print(CREDITS)
     print(DONATE_TEXT)
 
     clicker = BlumClicker()
